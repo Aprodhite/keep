@@ -156,7 +156,7 @@ include('../UserModule/includes/fetch_acc_info.php');
     <!-- About -->
     <div class="section-title">
         <h2><a class="main-edit-ico" data-bs-toggle="modal" data-bs-target="#modalAboutEdit">
-            <i class="fa fa-edit" title="Edit About" ></i></a> About</h2>
+            <i class="fa fa-edit" title="Edit About"></i></a> About</h2>
         <p>Learn more about me</p>
     </div>
 
